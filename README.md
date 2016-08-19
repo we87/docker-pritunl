@@ -1,18 +1,11 @@
 # pritunl
 https://pritunl.com/
 
-## Supported tags
-
-- `1.25.1054.4`, `latest`
-- `1.25.1039.56`
-- `1.21.941.39`
-- `1.16.884.17`
-
 
 ## 1. Get image
 
 ```
-docker pull fridus/pritunl
+docker pull we87/pritunl
 ```
 
 
